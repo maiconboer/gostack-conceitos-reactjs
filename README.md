@@ -1,4 +1,4 @@
-## Desafio sobre conceitos React - Bootcamp GoStack 
+## Desafio sobre conceitos React - Bootcamp GoStack - :atom_symbol:
 
 
 <img src=".github/GoStack.png"/>
